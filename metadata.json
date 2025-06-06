@@ -52,5 +52,21 @@
     "is_lfs": true,
     "lfs_oid": null,
     "sha": null
+  },
+  {
+    "id": "1f396848-4c67-4c48-8b8b-56cefc548635",
+    "original_filename": "blob",
+    "display_name": "457602670_1038184044176751_5652940152271081193_n",
+    "path": "image/1f396848-4c67-4c48-8b8b-56cefc548635",
+    "uploaded_at": "2025-06-06 18:14:20.910444",
+    "size": 55165,
+    "content_type": "image/jpeg",
+    "tags": [],
+    "description": "",
+    "connection_id": "primary",
+    "custom_properties": {},
+    "is_lfs": true,
+    "lfs_oid": null,
+    "sha": null
   }
 ]
