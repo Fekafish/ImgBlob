@@ -17,5 +17,24 @@
     "is_lfs": true,
     "lfs_oid": null,
     "sha": null
+  },
+  {
+    "id": "9b129087-bcc1-4549-a98f-de4f55137274",
+    "original_filename": "test_image.png",
+    "display_name": "curl_test.png",
+    "path": "image/9b129087-bcc1-4549-a98f-de4f55137274.png",
+    "uploaded_at": "2025-06-06 17:56:38.971167",
+    "size": 284,
+    "content_type": "image/png",
+    "tags": [
+      "curl",
+      "test"
+    ],
+    "description": "使用 curl 測試上傳",
+    "connection_id": "primary",
+    "custom_properties": {},
+    "is_lfs": true,
+    "lfs_oid": null,
+    "sha": null
   }
 ]
