@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "8835e74b-f5b7-4586-817a-fcabe0e850ff",
+    "original_filename": "test_image.png",
+    "display_name": "test_upload.png",
+    "path": "image/8835e74b-f5b7-4586-817a-fcabe0e850ff.png",
+    "uploaded_at": "2025-06-06 17:56:32.843189",
+    "size": 284,
+    "content_type": "image/png",
+    "tags": [
+      "test",
+      "upload"
+    ],
+    "description": "測試上傳的圖片",
+    "connection_id": "primary",
+    "custom_properties": {},
+    "is_lfs": true,
+    "lfs_oid": null,
+    "sha": null
+  }
+]
