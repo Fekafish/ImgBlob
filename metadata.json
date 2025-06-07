@@ -32,5 +32,26 @@
     "is_lfs": true,
     "lfs_oid": null,
     "sha": null
+  },
+  {
+    "id": "0e216568-7fa0-4caa-9b07-f2a2e8f965c9",
+    "original_filename": "182922_0.jpg",
+    "display_name": "182922_0",
+    "path": "image/0e216568-7fa0-4caa-9b07-f2a2e8f965c9.jpg",
+    "uploaded_at": "2025-06-07 15:45:54.528040",
+    "size": 137864,
+    "content_type": "image/jpeg",
+    "tags": [
+      "upload",
+      "curl",
+      "test",
+      ""
+    ],
+    "description": "",
+    "connection_id": "primary",
+    "custom_properties": {},
+    "is_lfs": true,
+    "lfs_oid": null,
+    "sha": null
   }
 ]
