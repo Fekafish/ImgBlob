@@ -29,5 +29,23 @@
     "description": "",
     "connection_id": "primary",
     "custom_properties": {}
+  },
+  {
+    "id": "816df02b-3e98-4631-93f6-0acb9955e351",
+    "original_filename": "1749117721368.png",
+    "display_name": "string",
+    "path": "image/816df02b-3e98-4631-93f6-0acb9955e351.png",
+    "uploaded_at": "2025-06-07 02:11:58.267860",
+    "size": 521369,
+    "content_type": "image/png",
+    "tags": [
+      ""
+    ],
+    "description": "",
+    "connection_id": "primary",
+    "custom_properties": {},
+    "is_lfs": true,
+    "lfs_oid": null,
+    "sha": null
   }
 ]
