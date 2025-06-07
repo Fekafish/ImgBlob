@@ -14,5 +14,23 @@
     "is_lfs": true,
     "lfs_oid": null,
     "sha": null
+  },
+  {
+    "id": "f8eb6d1a-fb22-4fc8-b6b4-9588c7fb692a",
+    "original_filename": "182920_0.jpg",
+    "display_name": "182920_0",
+    "path": "image/f8eb6d1a-fb22-4fc8-b6b4-9588c7fb692a.jpg",
+    "uploaded_at": "2025-06-07 13:29:29.362146",
+    "size": 195752,
+    "content_type": "image/jpeg",
+    "tags": [
+      "upload"
+    ],
+    "description": "5555",
+    "connection_id": "primary",
+    "custom_properties": {},
+    "is_lfs": true,
+    "lfs_oid": null,
+    "sha": null
   }
 ]
