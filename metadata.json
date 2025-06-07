@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "c26def8d-1a69-4781-aa88-0208c029ecdd",
+    "original_filename": "182918_0.jpg",
+    "display_name": "182918_0",
+    "path": "image/c26def8d-1a69-4781-aa88-0208c029ecdd.jpg",
+    "uploaded_at": "2025-06-07 13:29:13.027495",
+    "size": 153957,
+    "content_type": "image/jpeg",
+    "tags": [],
+    "description": "",
+    "connection_id": "primary",
+    "custom_properties": {},
+    "is_lfs": true,
+    "lfs_oid": null,
+    "sha": null
+  }
+]
