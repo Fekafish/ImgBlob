@@ -53,5 +53,20 @@
     "is_lfs": true,
     "lfs_oid": null,
     "sha": null
+  },
+  {
+    "id": "28472cee-97a3-4665-9886-e23148e594b5",
+    "url": "https://raw.githubusercontent.com/Fekafish/ImgBlob/main/image/28472cee-97a3-4665-9886-e23148e594b5.png",
+    "path": "image/28472cee-97a3-4665-9886-e23148e594b5.png",
+    "sha": "c655ff6889b405d8b98bfec8408e8bcb1955ed93",
+    "uploaded_at": "2025-06-07 17:15:11.093100",
+    "size": 251145,
+    "original_filename": "1747062421178.png",
+    "display_name": "1747062421178",
+    "content_type": "image/png",
+    "tags": [],
+    "description": "",
+    "connection_id": "primary",
+    "custom_properties": {}
   }
 ]
